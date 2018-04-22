@@ -1,4 +1,4 @@
 @echo off
 del /f Status
-NUL> Status
+type NUL > Status
 pause
