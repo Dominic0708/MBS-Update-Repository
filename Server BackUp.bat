@@ -4,5 +4,5 @@ git pull
 git add .
 git commit -m "User Server BackUp."
 git push
-@echo All good you may leave Itay.
+@echo Server Backup Completed.
 pause
